@@ -1,7 +1,7 @@
 
 Hi, I'm Denise Recofka, a Front-end Developer 🚀 
 
-  <img align="right" alt="GIF" src="https://github.com/recofka/recofka/blob/main/denise.jpg" width="320" height="320" />
+  <img alt="GIF" src="https://github.com/recofka/recofka/blob/main/denise.jpg" width="200" height="150" />
  
 
 
